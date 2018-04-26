@@ -2,8 +2,7 @@
 
 # MMM-páginas
 
-Este módulo [MagicMirror²] [mm] te permite tener páginas en tu espejo mágico. ¿Quieres tener más módulos en tu espejo mágico, pero quieres mantener el formato? O bien, ¿desea tener módulos agrupados que tengan temas juntos? ¡No busque más!
-
+Este Modulos de paginado es desarrollado con el fin de cumplir unos requisitos especificos y con fines educativos, Smart Mirror es una idea universitaria para satisfacer diferentes necesidades de la vida cotidiana
 [Haga clic aquí para ver un ejemplo de ello en acción!] (Https://www.youtube.com/watch?v=1NQ-sGtdUdg)
 
 Tenga en cuenta que este módulo no proporciona ningún método para cambiar manualmente la página. ¡Debería pedirles a otros desarrolladores que agreguen una notificación a sus módulos, o añada uno usted mismo!
